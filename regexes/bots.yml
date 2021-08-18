@@ -1854,12 +1854,6 @@
     name: 'Sentry'
     url: 'https://sentry.io'
 
-- regex: '^Spotify'
-  name: 'Spotify'
-  producer:
-    name: 'Spotify'
-    url: 'https://www.spotify.com'
-
 - regex: 'The Knowledge AI'
   name: 'The Knowledge AI'
   category: 'Crawler'
